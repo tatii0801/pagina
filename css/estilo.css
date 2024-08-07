@@ -1,0 +1,148 @@
+.imangen{
+    padding: 110px;
+    width: 100%;
+} 
+
+body{
+    background-image: url("../imagen/logo.jpg");
+    background-size: 155px;
+}
+
+.body1{
+    background-image: url("../imagen/cotizacion1.jpg");
+    background-size: 155px;
+}
+
+.body2{
+    background-image: url("../imagen/horoscopo.jpg");
+    background-size: 155px;
+}
+
+#Posicionado a {
+    font-weight: 1000;
+    background-color: #722348;
+    color: #ffffff;
+    font-size: 140%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.letra{
+    position: relative;
+    top: 60px;
+    font-size: 14%;
+    color: #fff;
+    background-color: rgba(0, 255, 255, 0.24);
+    width:70%;  
+    font-style: italic;
+    text-align: center;	 
+}
+
+.contenido{
+    display: inline;
+    height: auto;
+    font-style: italic;	
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    top: 110px;
+}
+
+.card {
+    /* articulos */
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.letra2{
+    position: relative;
+    top: -14px;
+    color: #fff;
+    background-color: rgba(255, 0, 0, 0.24);
+    width:300%;   
+}
+
+footer {
+    padding: 1rem;
+    color: #ffffff;
+    background-color: #e01818b6;
+    font-family: Arial Rounded MT Bold, serif, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+.redes {
+    position: relative;
+    top: 70px;
+}
+
+.formulario{
+	background-color: #5C6BC0;
+	color: #ffffff;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+    font-weight: bold;   
+}
+
+.letra3{
+    text-align: center;
+    font-weight: bold;
+}
+
+.letra3 h3{
+    background-color: #232f72;
+    font-family: Arial Rounded MT Bold,serif,sans-serif;
+    padding: 1rem;
+    text-align: center;
+    font-weight: bold;
+    display: 7;
+    color: white;
+}
+
+.contenedor-tabla{
+    text-align: center;
+	width: 105%;
+	margin-left: 0rem;
+	margin-right: 0rem;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+}
+
+
+.horocopo{
+    position: relative;
+    top: -15px;
+    font-family: Arial Rounded MT Bold,serif,sans-serif;
+    color: #fff;
+    width: 100%;  
+    font-style: italic;
+    text-align: center;	
+    background-color: rgba(0, 255, 255, 0.24);
+}
+
+.signos{
+    padding: 1rem; 
+    text-align: center;	   
+}
+
+.btn-S{
+    padding: -2rem; 
+    color: white;
+    text-align: center;	
+    width: 44%; 
+    font-size: 33px;
+    font-family: Arial Rounded MT Bold,serif,sans-serif;
+    background-color: rgb(11, 134, 11);    
+}
+
+.tabla{
+    text-align: center;
+	width: 105%;
+	margin-left: 0rem;
+	margin-right: 0rem;
+	font-family: Arial Rounded MT Bold,serif,sans-serif;
+	margin-bottom: 1rem;
+}
